@@ -100,6 +100,7 @@ nav.activated {
 
 .dropdown-menu ul.slide-dropdown-menu {
   overflow: visible;
+  padding-top: 8px;
 }
 
 .features ul.slide-dropdown-menu {
